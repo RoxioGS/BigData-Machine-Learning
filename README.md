@@ -9,5 +9,5 @@ In the first file there are different exercises focused on Python programming la
 
 DAY 2
 This day of work was focused on Data Analysis specifically.
-We worked on importding Pandas, numpy, matplotlib and seaborn bookshops. 
+We worked on importing Pandas, numpy, matplotlib and seaborn bookshops. We used those bookshops to visualize and analyse the results. Then we used that information to observe whether it matched with the previous analysis.
 
