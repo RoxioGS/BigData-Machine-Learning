@@ -1,4 +1,4 @@
-# Curso-de-Machine-Learning
+# Curso-de-BigData-Machine-Learning
 DAY 1
 In the first file there are different exercises focused on Python programming language:
 -Type of variables
